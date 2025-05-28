@@ -1,8 +1,8 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.5.17.0.RKACNXM/miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip",
-  "rom_name": "update.zip",
+  "rom_url": "https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.2.0.RKMCNXM/miui_ODIN_V12.5.2.0.RKMCNXM_344c66de85_11.0.zip",
+  "rom_name": "miui_ODIN_V12.5.2.0.RKMCNXM_344c66de85_11.0.zip",
   "pack_sgsi": "SGSI.zip",
-  "make_type": "AB",
+  "make_type": "A",
   "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
